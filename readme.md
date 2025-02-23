@@ -6,7 +6,7 @@ This project focuses on developing a sentiment analysis model for cell phone and
 
 ## Requirements:
 
-* Python version: 3.10.16
+* Python version: 3.12.9
 
 * Environment requirements: see [requirements.txt](https://github.com/luherod/sentiment_analysis_pipeline_-_mlflow_fastapi_gcp/blob/main/requirements.txt)
 

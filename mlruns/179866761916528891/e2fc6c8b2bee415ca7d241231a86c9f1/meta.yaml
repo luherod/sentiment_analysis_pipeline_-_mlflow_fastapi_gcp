@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Lucia/Documents/Bootcamp/16_Despliegue_de_algoritmos/Practica/mlruns/179866761916528891/e2fc6c8b2bee415ca7d241231a86c9f1/artifacts
+end_time: 1740231313186
+entry_point_name: ''
+experiment_id: '179866761916528891'
+lifecycle_stage: active
+run_id: e2fc6c8b2bee415ca7d241231a86c9f1
+run_name: Experiment_1
+run_uuid: e2fc6c8b2bee415ca7d241231a86c9f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740231308245
+status: 3
+tags: []
+user_id: Lucia
